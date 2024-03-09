@@ -1,3 +1,3 @@
 # miranti
-menyimpan progress selama PKL
+menyimpan progress sedikit sedikit
 insyaa Allah
